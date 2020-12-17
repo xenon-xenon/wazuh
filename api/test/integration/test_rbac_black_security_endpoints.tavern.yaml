@@ -33,7 +33,7 @@ stages:
               username: testing
               allow_run_as: false
               roles:
-                - 99
+                - 1
             - id: 102
               username: ossec
               allow_run_as: false
